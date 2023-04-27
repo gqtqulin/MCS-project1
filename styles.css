@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.page {
+    margin: 96px 65px 91px 65px;
+}
+
+.page img {
+    height: 400px;
+}
+
+.header-box {
+    height: 40px;
+    margin: 50px 0 50px 0;
+
+    background-color: #000000;
+    color: #FFFFFF;
+    font-family: 'Times New Roman', Times, serif;
+    vertical-align: middle;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.main-header-box {
+    height: 51px;
+    font-size: 30px;
+}
+
+.paragraph {
+    margin-top: 20px;
+
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.list {
+    margin: 50px 0 50px 15px;
+}
+
+a {
+    color: #0000FF;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: 18px;
+}
